@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CriterionUJ&lt;ResultType&gt;" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVzdelaniePodiel" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAIAAAAAAAAAAAAIAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJVzdelaniePodiel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Criterion&lt;ObjectType, ResultType&gt;" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Criterion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJNadradena" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJNadradena.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJNazov" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJNazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJPrislusnost" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAEAAAAAAAQAAIAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJPrislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJTyp" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJTyp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVekovaSkupinaPocet" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJVekovaSkupinaPocet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVekovaSkupinaPodiel" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJVekovaSkupinaPodiel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVekPocet" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAgAQAAAAAIAAAAAAAABAAAAQAA=</HashCode>
+      <FileName>CriterionUJVekPocet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVekPodiel" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAIAAAAQAAAAAIAAAAAAAABAAAAQAA=</HashCode>
+      <FileName>CriterionUJVekPodiel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CriterionUJVzdelaniePocet" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAIAAAAAAAABAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CriterionUJVzdelaniePocet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
